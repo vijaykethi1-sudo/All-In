@@ -2,7 +2,7 @@
 
 All-In Academy is a professional, brand-safe rebuild of the original single-file poker trainer. It turns the concept into a full-stack Texas Hold'em training lab with a React + TypeScript frontend and a FastAPI backend.
 
-## Why this version is more company-ready
+
 
 - **React frontend:** reusable components, typed models, state-driven screens, and a Vite workflow.
 - **FastAPI backend:** documented REST endpoints, Pydantic validation, CORS setup, and OpenAPI docs.
